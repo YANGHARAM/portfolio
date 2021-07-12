@@ -13,10 +13,10 @@
 
 낱말분서은 제가 밑에 있는 이표를 보고 하였습니다 
 
-单词名称|	类别码	单词名称|	类别码	单词名称|	类别码	单词名称|	类别码|
-标识符	IDENFR|	if	IFTK|	-	|MINU	|= 	|ASSIGN|
-整型常量|	INTCON	else|	ELSETK|	*	|MULT	|;	|SEMICN|
-字符常量|	CHARCON|	do	|DOTK	|/	|DIV|	,	|COMMA|
+|单词名称|	类别码	单词名称|	类别码	单词名称|	类别码	单词名称|	类别码|
+|标识符	IDENFR|	if	IFTK|	-	|MINU	|= 	|ASSIGN|
+|整型常量|	INTCON	else|	ELSETK|	*	|MULT	|;	|SEMICN|
+|字符常量|	CHARCON|	do	|DOTK	|/	|DIV|	,	|COMMA|
 
 字符串	STRCON	while	WHILETK	< 	LSS	(	LPARENT
 
