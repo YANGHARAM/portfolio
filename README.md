@@ -1,5 +1,5 @@
 # portfolio
-문법 분석 프로그램
+##문법 분석 프로그램
 주어진 문법에 따라 문법 분석 프로그램을 설계하고 구현하여 주십시오. 입출력 및 처리 요구사항은 다음과 같다:
 
 (1) 컴파일된 소스 파일은 자동 평가를 위해 testfile.txt, 출력된 결과 파일은 output.txt로 통일한다.결과 파일에는 다음 두 가지 정보가 포함되어 있습니다.
@@ -13,13 +13,10 @@
 
 낱말분서은 제가 밑에 있는 이표를 보고 하였습니다 
 
-单词名称	类别码	单词名称	类别码	单词名称	类别码	单词名称	类别码
-
-标识符	IDENFR	if	IFTK	-	MINU	= 	ASSIGN
-
-整型常量	INTCON	else	ELSETK	*	MULT	;	SEMICN
-
-字符常量	CHARCON	do	DOTK	/	DIV	,	COMMA
+单词名称|	类别码	单词名称|	类别码	单词名称|	类别码	单词名称|	类别码|
+标识符	IDENFR|	if	IFTK|	-	|MINU	|= 	|ASSIGN|
+整型常量|	INTCON	else|	ELSETK|	*	|MULT	|;	|SEMICN|
+字符常量|	CHARCON|	do	|DOTK	|/	|DIV|	,	|COMMA|
 
 字符串	STRCON	while	WHILETK	< 	LSS	(	LPARENT
 
